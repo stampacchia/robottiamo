@@ -1,7 +1,6 @@
 ---
 title: "Introduzione"
 date: 2018-08-03T21:46:51+02:00
-draft: true
 ---
 
 Benvenuti in questo piccolo blog!

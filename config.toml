@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "it"
+title = "Robottiamo"
+theme = "hyde"
+
+[params]
+    description = "Il corso estivo di Robotica organizzato dal Liceo G. Stampacchia di Tricase"
+    themeColor = "theme-base-0b"

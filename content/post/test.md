@@ -1,7 +1,8 @@
 ---
-title: "Test"
-date: 2018-08-03T22:05:06+02:00
-draft: false
+title: Test
+date: 2018-08-03T20:05:06.000Z
+thumbnail: /images/uploads/avatar.jpg
+rating: '2'
 ---
 
 Come usare questo blog?
@@ -12,6 +13,7 @@ def test():
     ### output: 2
 ```
 
+# Prova Prova
 
 Attributions:
 

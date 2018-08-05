@@ -3,6 +3,11 @@ languageCode = "it"
 title = "Robottiamo"
 theme = "hyde"
 
+enableRobotsTXT = true
+canonifyURLs = true
+
 [params]
     description = "Il corso estivo di Robotica organizzato dal Liceo G. Stampacchia di Tricase"
     themeColor = "theme-base-0b"
+    post = "/blog/:title/"
+

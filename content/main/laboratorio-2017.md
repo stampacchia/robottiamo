@@ -1,7 +1,5 @@
 ---
-title: "Laboratorio di Robotica"
-date: 2018-08-04T08:28:07+02:00
-draft: false
+title: Laboratorio di Robotica 2017
 menu: main
 ---
 
@@ -10,20 +8,6 @@ Il corso **Robottiamo** nasce dall'esperienza *Laboratorio di Robotica*, organiz
 Ci sembra doveroso dedicare una pagina a quell'esperienza!
 
 <!--more-->
-
-### Presentazione del Corso
-
-Al via il corso Laboratorio di Robotica, organizzato dal Liceo G. Stampacchia di Tricase in collaborazione con il CINI (Consorzio Interuniversitario Nazionale di Informatica).
-
-L’11 Agosto 2017, inizierà la prima lezione del corso “Laboratorio di Robotica”, fortemente voluto dal Liceo G. Stampacchia di Tricase e tenuto dal Dott. Ing. Ludovico Russo, ex studente dell’Istituto che ha recentemente ottenuto un dottorato di Ricerca (con Lode) presso il Politecnico di Torino, e si occupa di tecnologie assistive e robotica educativa presso il laboratorio AsTech (Assistive Technologies) del CINI, nodo di Torino.
-
-Il corso, realizzato grazie ai fondi della presidenza del Consiglio dei Ministri – Dipartimento Pari Opportunità – sul bando “In estate si imparano le STEM”, di cui il Liceo Stampacchia è risultato vincitore, coinvolgerà 21 studenti (di cui 13 ragazze e 8 ragazzi) di età compresa tra i 13 e i 15 anni, che avranno la possibilità di avvicinarsi al mondo della robotica.
-
-Il corso si articolerà in 40 ore, distribuite su 10 lezioni, che termineranno il 25 Agosto 2017. Durante il corso, i ragazzi impareranno le basi di tecnologie altamente innovative, come Progettazione e Stampa 3D, linguaggi di programmazione (C/C++ e Python) e schede di prototipazione rapida (Arduino e Raspberry Pi).
-
-Il corso si svolgerà con metodologia laboratoriale, in modo cooperativo in aula, e l’intero processo di formazione sarà supportato da una piattaforma di formazione on-line. In questo modo sarà possibile sviluppare sperimentazioni didattiche, nonché fornire indicazioni di articoli di approfondimento e svolgimento di attività pratiche sull’uso di tecnologie che saranno illustrate nei momenti in presenza.
-
-Per coinvolgere ancora di più gli studenti alla sperimentazione e all’autoapprendimento, il corso terminerà con una competizione, in cui gli studenti, organizzati in team, faranno gareggiare i robot da loro costruiti al fine di realizzare un disegno artistico in modo automatico. Il team il cui robot disegnerà il progetto più bello sarà decretato vincitore della competizione.
 
 ### Materiale
 

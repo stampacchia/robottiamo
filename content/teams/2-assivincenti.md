@@ -7,7 +7,10 @@ components:
 - Luisa V.
 - Martina D.
 - Alessio V.
-image: /imgs/teams/assivincenti.jpg
-draft: true
+image: /imgs/teams/assi.png
 ---
-Ciao! Siamo gli ASSI VINCENTI 
+
+Ciao! Siamo “ASSI VINCENTI”; e con i miei compagni abbiamo creato questo robottino di nome Alduin durante il laboratorio pomeridiano per la robotica STEM.
+
+Siamo venuti a conoscenza di questo corso durante la nostra iscrizione al liceo scientifico Stampacchia e abbiamo deciso di frequentarlo per pura curiosità.
+

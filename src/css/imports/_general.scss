@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Helvetica Neue";
+    line-height: 150%;
+    letter-spacing: 1pt;
+
+    min-height: 100vh;
+
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.cnt {
+    max-width: 800px;
+    margin: auto;
+    padding: 0 5px;
+
+    &.wrap {
+        max-width: 2000px;
+    }
+}

@@ -1,0 +1,32 @@
+.profile {
+    display: grid;
+    grid-template-columns: auto 1fr;
+
+    justify-items: right;
+    align-items: center;
+    grid-gap: 20px;
+    padding: 40px 0;
+
+    .image {
+        position: relative;
+        height: 100px;
+        img {
+            height: 100px !important;
+            border-radius: 50%;
+        }
+        a {
+            width: 20px;
+            height: 20px;
+            font-size: 15pt;
+            text-align: center;
+            background: $color-linkedin;
+            padding: 10px;
+            color: white;
+            border-radius: 50%;
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+    
+    }
+}

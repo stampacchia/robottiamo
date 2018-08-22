@@ -1,0 +1,18 @@
+{{ define "main" -}}
+<div class="post">
+  <h1>{{ .Title }}</h1>
+  <img src="{{ .Params.image }}" alt="">
+
+  {{ range .Params.components }}
+  <span>  <strong> {{ . }} </strong> </span>
+  {{- end }}
+  <hr >
+  {{ .Content }}
+</div>
+
+
+{{ if .Site.DisqusShortname -}}
+<h2>Comments</h2>
+{{ template "_internal/disqus.html" . }}
+{{- end }}
+{{- end }}

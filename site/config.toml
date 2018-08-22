@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "it"
+title = "Robottiamo"
+theme = "hyde"
+image = "/images/main.png"
+description = "Il corso estivo di Robotica organizzato dal Liceo G. Stampacchia di Tricase in collaborazione con il CINI, grazie ai fondi del Ministero delle Pari Opportunità"
+
+enableRobotsTXT = true
+canonifyURLs = true
+
+[params]
+    description = "Il corso estivo di Robotica organizzato dal Liceo G. Stampacchia di Tricase"
+    themeColor = "theme-base-0b"
+    post = "/blog/:title/"
+

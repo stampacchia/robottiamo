@@ -1,7 +1,7 @@
 ---
 title: Introduzione
 date: 2018-08-20T08:00:51.000Z
-thumbnail: /images/uploads/robottiamo-stampacchia.png
+image: /images/uploads/robottiamo-stampacchia.png
 ---
 
 Benvenuti in questo piccolo blog!

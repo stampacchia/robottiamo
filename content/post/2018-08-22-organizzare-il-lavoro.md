@@ -2,7 +2,7 @@
 layout: blog
 title: Organizzare il lavoro
 date: 2018-08-22T09:22:05.589Z
-thumbnail: /images/uploads/robottiamo-stampacchia.png
+image: /images/uploads/robottiamo-stampacchia.png
 ---
 Per organizzare il lavoro ed i vari file che creerete, useremo alcuni strumenti utilissimi messi a disposizione da google all'interno del pacchetto \*\*G-Suite\*\*.
 

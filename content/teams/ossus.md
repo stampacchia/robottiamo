@@ -1,17 +1,15 @@
 ---
 title: Ossus
-image: /imgs/teams/ossus.jpg
 robot: C-3PO 2.0
+image: /imgs/teams/ossus.jpg
 components:
-- Anna D.
-- Giorgia C.
-- Miriam P.
-- Giulia V.
-- Daniel F.
-- Lorenzo D.
-files:
-  - file: /data/uploads/fantastic-for-portachiavi.stl
-    name: Portachiavi
+  - Anna D.
+  - Giorgia C.
+  - Miriam P.
+  - Giulia V.
+  - Daniel F.
+  - Lorenzo D.
+files: []
 ---
 
 Siamo sei ragazzi provenienti da diversi paesi limitrofi, trovati per caso, tenuti a organizzare e progettare insieme intorno allo stesso tavolo di lavoro .

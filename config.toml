@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "it"
 title = "Robottiamo"
 theme = "hyde"
+image = "/images/main.png"
 
 enableRobotsTXT = true
 canonifyURLs = true

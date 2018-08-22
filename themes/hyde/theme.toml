@@ -5,6 +5,7 @@ description = "An elegant open source and mobile first theme"
 tags = ["blog", "company"]
 features = ["blog", "themes", "disqus"]
 min_version = 0.21
+image = /images/main.png
 
 [author]
     name = "spf13"

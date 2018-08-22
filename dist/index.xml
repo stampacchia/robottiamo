@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robottiamo</title>
+    <link>/</link>
+    <description>Recent content on Robottiamo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 22 Aug 2018 09:22:05 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organizzare il lavoro</title>
+      <link>/post/2018-08-22-organizzare-il-lavoro/</link>
+      <pubDate>Wed, 22 Aug 2018 09:22:05 +0000</pubDate>
+      
+      <guid>/post/2018-08-22-organizzare-il-lavoro/</guid>
+      <description>Per organizzare il lavoro ed i vari file che creerete, useremo alcuni strumenti utilissimi messi a disposizione da google all&amp;rsquo;interno del pacchetto G-Suite.
+In particolare, ogni gruppo dovrà creare una cartella Google Drive contenente le seguenti cose:
+ Un file chiamato sito creato tramite Google Documents contenente tutte le informazioni che vorrete verranno pubblicate all&amp;rsquo;interno della pagina del gruppo Una cartella chiamata img con tutte le foto e i video che scatterete durante il lavoro e vorrete condividere con noi.</description>
+    </item>
+    
+    <item>
+      <title>Challenge Finale</title>
+      <link>/post/2018-08-21-challenge-finale/</link>
+      <pubDate>Tue, 21 Aug 2018 12:50:23 +0000</pubDate>
+      
+      <guid>/post/2018-08-21-challenge-finale/</guid>
+      <description>Il corso si concluderà con una sfida finale, in cui i vari robot gareggeranno per creare un disegno in modo automatico.
+La sfida finale, si terrà l&amp;rsquo;ultimo giorno di corso, dalle 16:00 alle 20:00. La sfida sarà così organizzata:
+ Dalle 16:00 alle 18:00, ogni team, a turno, creerà un disegno con il proprio robot. I disegni verranno esposti a partire dalle 18:00 Dalle 18:00 alle 20:00, i team, uno alla volta, presenteranno ai loro compagni, genitori e amici il loro lavoro, tramite una presentazione di circa 5 min, accompagnati da slide che i gruppi dovranno creare.</description>
+    </item>
+    
+    <item>
+      <title>Arduino</title>
+      <link>/post/2018-08-21-arduino/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-08-21-arduino/</guid>
+      <description>Arduino è una scheda elettronica programmabile in grado di interfacciarsi con dispositivi elettronici che possono controllare o misurare l&amp;rsquo;ambiente circostante.
+Arduino sarà il cervello del nostro Robot, e tramite la programmazione, potremmo decidere e modificare il suo comportamento.
+Materiale  Download del programma Arduino  Se volete acquistare un Arduino per usarlo a casa, potete comprarlo da questi link:
+ Arduino Originale Attenzione: contiene solo un Arduino uno, senza nessun altro componente.</description>
+    </item>
+    
+    <item>
+      <title>Stampa 3D</title>
+      <link>/post/2018-08-20-stampa-3d/</link>
+      <pubDate>Mon, 20 Aug 2018 15:23:07 +0000</pubDate>
+      
+      <guid>/post/2018-08-20-stampa-3d/</guid>
+      <description>Sito internet utili:
+ TinkerCAD Thingiverse    Materiale per la meccanica del Robot Base per fronte e retro robot  Download qui
+Base per ruote  Download qui</description>
+    </item>
+    
+    <item>
+      <title>Introduzione</title>
+      <link>/post/intro/</link>
+      <pubDate>Mon, 20 Aug 2018 08:00:51 +0000</pubDate>
+      
+      <guid>/post/intro/</guid>
+      <description>Benvenuti in questo piccolo blog!
+Robottiamo è un progetto del Liceo G. Stampacchia di Tricase (LE), che per il secondo anno consecutivo, in collaborazione con il CINI (Consorzio Interuniversitario Nazionale di Informatica) organizza un corso gratuito per studenti che stanno intrapredendo un percorso liceale, per avvicinarsi al mondo della robotica, del making ed in generale delle discipline STEM.
+  </description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>/main/team/</link>
+      <pubDate>Sat, 04 Aug 2018 08:41:03 +0200</pubDate>
+      
+      <guid>/main/team/</guid>
+      <description>In questa pagina, vogliamo ricordare il fantastico team che ha permesso la realizzazione del corso, non solo i docenti, ma chiunque abbiamo dato il proprio contributo al corso!
+ Ludovico Russo Viviano Causo Giusi Greco  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/teams/boh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teams/boh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.R.E. (Advanced Robot Engineers)</title>
+      <link>/teams/are/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teams/are/</guid>
+      <description>Noi siamo i membri del gruppo A.R.E. ( Advanced Robot Engineers ) iscritti a questo corso perchè fiduciosi di apprendere sempre di più su un mondo moderno e tecnologico quale è quello della robotica.
+Le nostre aspettative sono state ampiamente soddisfatte e siamo stati felici di aver partecipato.</description>
+    </item>
+    
+    <item>
+      <title>Assi Vincenti</title>
+      <link>/teams/assivincenti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teams/assivincenti/</guid>
+      <description>Ciao! Siamo “ASSI VINCENTI”; e con i miei compagni abbiamo creato questo robottino di nome Alduin durante il laboratorio pomeridiano per la robotica STEM.
+Siamo venuti a conoscenza di questo corso durante la nostra iscrizione al liceo scientifico Stampacchia e abbiamo deciso di frequentarlo per pura curiosità.</description>
+    </item>
+    
+    <item>
+      <title>Cartella Stampa</title>
+      <link>/main/2018-08-20-cartella-stampa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main/2018-08-20-cartella-stampa/</guid>
+      <description>Al via il corso Robottiamo, organizzato dal Liceo G. Stampacchia di Tricase in collaborazione con il CINI (Consorzio Interuniversitario Nazionale di Informatica). Il 20 Agosto 2018, inizia la prima lezione del corso “Robottiamo”, fortemente voluto dal Liceo G. Stampacchia di Tricase dopo il successo del corso Laboratorio di Robotica dell&amp;rsquo;estate 2017.
+Il corso sarà tenuto da Dott. Ing. Ludovico Russo, ex studente dell’Istituto che ha recentemente ottenuto un dottorato di Ricerca (con Lode) presso il Politecnico di Torino, e dal prof.</description>
+    </item>
+    
+    <item>
+      <title>Fantastic 4</title>
+      <link>/teams/fantastici4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teams/fantastici4/</guid>
+      <description>Siamo dei ragazzi provenienti da altri paesi insieme qui per lavorare e mettere insieme le nostre idee. Ci chiamiamo Damiano, Antonio, Christian e Davide e abbiamo deciso di partecipare a questo corso sicuri di rimanere soddisfatti e per aumentare le nostre conoscenze. Il campo della robotica ha preso il sopravvento sulla società moderna ed è quindi molto importante. Il nome del nostro gruppo, “i fantastici 4”, (dato che siamo in quattro) è tratto dal famosissimo film.</description>
+    </item>
+    
+    <item>
+      <title>Laboratorio di Robotica 2017</title>
+      <link>/main/laboratorio-2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main/laboratorio-2017/</guid>
+      <description>&lt;p&gt;Il corso &lt;strong&gt;Robottiamo&lt;/strong&gt; nasce dall&amp;rsquo;esperienza &lt;em&gt;Laboratorio di Robotica&lt;/em&gt;, organizzato nell&amp;rsquo;estate del 2017 dal &lt;strong&gt;Liceo G. Stampacchia&lt;/strong&gt; di Tricase in collaborazione con il CINI.&lt;/p&gt;
+
+&lt;p&gt;Ci sembra doveroso dedicare una pagina a quell&amp;rsquo;esperienza!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ossus</title>
+      <link>/teams/ossus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teams/ossus/</guid>
+      <description>Siamo sei ragazzi provenienti da diversi paesi limitrofi, trovati per caso, tenuti a organizzare e progettare insieme intorno allo stesso tavolo di lavoro . Ci chiamiamo Anna, Miriam, Giulia, Giorgia, Daniel e Lorenzo e abbiamo deciso di partecipare a questo corso di robotica per acquisire maggior numero di conoscenze possibili in questo campo che ha preso il sopravvento sulla società moderna, soprattutto per avere destrezza con gli strumenti e i mezzi che ci circondano.</description>
+    </item>
+    
+    <item>
+      <title>Programma</title>
+      <link>/main/programma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main/programma/</guid>
+      <description>Il corso di 40 ore, completamente gratuito, si terrà presso il centro ex-ACAIT di Tricase, dal 20/08/2018 al 05/09/2018 , secondo il calendario seguente:
+ 20/08/2018 dalle 16:00 alle 20:00 21/08/2018 dalle 16:00 alle 20:00 22/08/2018 dalle 16:00 alle 20:00 27/08/2018 dalle 16:00 alle 20:00 28/08/2018 dalle 16:00 alle 20:00 30/08/2018 dalle 16:00 alle 20:00 31/08/2018 dalle 16:00 alle 20:00 03/09/2018 dalle 16:00 alle 20:00 04/09/2018 dalle 16:00 alle 20:00 05/09/2018 dalle 16:00 alle 20:00  </description>
+    </item>
+    
+    <item>
+      <title>Senza Nome</title>
+      <link>/teams/senzanome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teams/senzanome/</guid>
+      <description>Siamo sei ragazzi, Andrea, Gianni, Maurizio, Beatrice, Federica e Chiara, componenti del gruppo i ‘SENZANOME’. Il nostro Robot si chiamerà Jimmy, perché per ma sua simpatia, piaceva a tutti e pensavamo fosse un nome originale e differente rispetto al solito. Nel creare il portachiavi ci siamo divertiti molto, nonostante le idee diverse tra ragazzi e ragazze, ma alla fine siamo riusciti a trovare qualcosa che piacesse a tutti.</description>
+    </item>
+    
+  </channel>
+</rss>

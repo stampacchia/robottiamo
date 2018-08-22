@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mains on Robottiamo</title>
+    <link>/main/</link>
+    <description>Recent content in Mains on Robottiamo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 04 Aug 2018 08:41:03 +0200</lastBuildDate>
+    
+	<atom:link href="/main/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Team</title>
+      <link>/main/team/</link>
+      <pubDate>Sat, 04 Aug 2018 08:41:03 +0200</pubDate>
+      
+      <guid>/main/team/</guid>
+      <description>In questa pagina, vogliamo ricordare il fantastico team che ha permesso la realizzazione del corso, non solo i docenti, ma chiunque abbiamo dato il proprio contributo al corso!
+ Ludovico Russo Viviano Causo Giusi Greco  </description>
+    </item>
+    
+    <item>
+      <title>Cartella Stampa</title>
+      <link>/main/2018-08-20-cartella-stampa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main/2018-08-20-cartella-stampa/</guid>
+      <description>Al via il corso Robottiamo, organizzato dal Liceo G. Stampacchia di Tricase in collaborazione con il CINI (Consorzio Interuniversitario Nazionale di Informatica). Il 20 Agosto 2018, inizia la prima lezione del corso “Robottiamo”, fortemente voluto dal Liceo G. Stampacchia di Tricase dopo il successo del corso Laboratorio di Robotica dell&amp;rsquo;estate 2017.
+Il corso sarà tenuto da Dott. Ing. Ludovico Russo, ex studente dell’Istituto che ha recentemente ottenuto un dottorato di Ricerca (con Lode) presso il Politecnico di Torino, e dal prof.</description>
+    </item>
+    
+    <item>
+      <title>Laboratorio di Robotica 2017</title>
+      <link>/main/laboratorio-2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main/laboratorio-2017/</guid>
+      <description>&lt;p&gt;Il corso &lt;strong&gt;Robottiamo&lt;/strong&gt; nasce dall&amp;rsquo;esperienza &lt;em&gt;Laboratorio di Robotica&lt;/em&gt;, organizzato nell&amp;rsquo;estate del 2017 dal &lt;strong&gt;Liceo G. Stampacchia&lt;/strong&gt; di Tricase in collaborazione con il CINI.&lt;/p&gt;
+
+&lt;p&gt;Ci sembra doveroso dedicare una pagina a quell&amp;rsquo;esperienza!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programma</title>
+      <link>/main/programma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main/programma/</guid>
+      <description>Il corso di 40 ore, completamente gratuito, si terrà presso il centro ex-ACAIT di Tricase, dal 20/08/2018 al 05/09/2018 , secondo il calendario seguente:
+ 20/08/2018 dalle 16:00 alle 20:00 21/08/2018 dalle 16:00 alle 20:00 22/08/2018 dalle 16:00 alle 20:00 27/08/2018 dalle 16:00 alle 20:00 28/08/2018 dalle 16:00 alle 20:00 30/08/2018 dalle 16:00 alle 20:00 31/08/2018 dalle 16:00 alle 20:00 03/09/2018 dalle 16:00 alle 20:00 04/09/2018 dalle 16:00 alle 20:00 05/09/2018 dalle 16:00 alle 20:00  </description>
+    </item>
+    
+  </channel>
+</rss>

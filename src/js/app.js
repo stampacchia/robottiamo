@@ -13,3 +13,5 @@ window.toggleNav = function() {
   let collapsed = document.getElementById("collapse");
   collapsed.classList.toggle("hidden-on-mobile")
 }
+
+import '@justinribeiro/stl-part-viewer';

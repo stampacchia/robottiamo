@@ -18,8 +18,6 @@ In particolare, ogni gruppo dovrà creare una cartella  **Google Drive** contene
 
 Dovete per prima cosa accedere a [Google Drive](https://drive.google.com/drive/my-drive) ed accedere con il vostro account Google. Se non avete un account Google, chiedete pure a Ludovico per aiutarvi a registrarlo.
 
-
-
 ![Google Drive](/data/uploads/schermata-2018-08-22-alle-13.34.10.png)
 
 A questo punto, create una nuova cartella chiamata con il nome del vostro team, cliccando sul tasto **+** a sinistra della pagina.
@@ -30,12 +28,10 @@ All'interno della cartella, create i file e le cartelle come descritto sopra, ed
 
 ## Condividere la Cartella
 
-Una volta creata la cartella, dovrete condividerla con Ludovico in modo che il materiale sia automaticamente access
+Una volta creata la cartella, dovrete condividerla con Ludovico in modo che il materiale sia automaticamente accessibile da noi. 
 
-![](/data/uploads/schermata-2018-08-22-alle-13.42.24.png)
-
-ibile da noi. 
+![null](/data/uploads/schermata-2018-08-22-alle-13.42.24.png)
 
 Per farlo, cliccate con il tasto destro del mouse sulla vostra cartella princiapale, quindi cliccate su _condividi_, ed inserite la mail robottiamo.stampacchia@gmail.com.
 
-![](/data/uploads/schermata-2018-08-22-alle-13.42.10.png)
+![null](/data/uploads/schermata-2018-08-22-alle-13.42.10.png)

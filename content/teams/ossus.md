@@ -2,7 +2,7 @@
 title: Ossus
 image: /imgs/teams/ossus.jpg
 files:
-  - file: /images/uploads/fantastic-for-portachiavi.stl
+  - file: /data/uploads/fantastic-for-portachiavi.stl
     name: Portachiavi
 ---
 

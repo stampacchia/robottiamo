@@ -2,7 +2,7 @@
 layout: blog
 title: Organizzare il lavoro
 date: 2018-08-22T09:22:05.589Z
-image: /images/uploads/main.png
+image: /data/uploads/main.png
 ---
 Per organizzare il lavoro ed i vari file che creerete, useremo alcuni strumenti utilissimi messi a disposizione da google all'interno del pacchetto **G-Suite**.
 
@@ -20,22 +20,22 @@ Dovete per prima cosa accedere a [Google Drive](https://drive.google.com/drive/m
 
 
 
-![Google Drive](/images/uploads/schermata-2018-08-22-alle-13.34.10.png)
+![Google Drive](/data/uploads/schermata-2018-08-22-alle-13.34.10.png)
 
 A questo punto, create una nuova cartella chiamata con il nome del vostro team, cliccando sul tasto **+** a sinistra della pagina.
 
 All'interno della cartella, create i file e le cartelle come descritto sopra, ed iniziate a riempire il materiale.
 
-![Cartella Google Drive](/images/uploads/schermata-2018-08-22-alle-13.40.28.png)
+![Cartella Google Drive](/data/uploads/schermata-2018-08-22-alle-13.40.28.png)
 
 ## Condividere la Cartella
 
 Una volta creata la cartella, dovrete condividerla con Ludovico in modo che il materiale sia automaticamente access
 
-![](/images/uploads/schermata-2018-08-22-alle-13.42.24.png)
+![](/data/uploads/schermata-2018-08-22-alle-13.42.24.png)
 
 ibile da noi. 
 
 Per farlo, cliccate con il tasto destro del mouse sulla vostra cartella princiapale, quindi cliccate su _condividi_, ed inserite la mail robottiamo.stampacchia@gmail.com.
 
-![](/images/uploads/schermata-2018-08-22-alle-13.42.10.png)
+![](/data/uploads/schermata-2018-08-22-alle-13.42.10.png)

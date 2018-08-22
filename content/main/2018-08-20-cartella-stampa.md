@@ -3,7 +3,7 @@ layout: blog
 title: Cartella Stampa
 menu: main
 ---
-![Presentazione corso](/images/uploads/39834839_10212614019726068_6434540610673180672_o.jpg)
+![Presentazione corso](/data/uploads/39834839_10212614019726068_6434540610673180672_o.jpg)
 
 Al via il corso **Robottiamo**, organizzato dal _Liceo G. Stampacchia_ di Tricase in collaborazione con il _CINI_ (Consorzio Interuniversitario Nazionale di Informatica).
 Il 20 Agosto 2018, inizia la prima lezione del corso “Robottiamo”, fortemente voluto dal Liceo G. Stampacchia di Tricase dopo il successo del corso _Laboratorio di Robotica_ dell'estate 2017.

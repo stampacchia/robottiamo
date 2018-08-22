@@ -39,8 +39,6 @@ collections:
         name: "components"
         widget: "list"
         allow_add: false
-        field:
-          - {label: Nome, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Files"
         name: "files"

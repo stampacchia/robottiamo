@@ -1,6 +1,14 @@
 ---
 title: Ossus
 image: /imgs/teams/ossus.jpg
+robot: C-3PO 2.0
+components:
+- Anna D.
+- Giorgia C.
+- Miriam P.
+- Giulia V.
+- Daniel F.
+- Lorenzo D.
 files:
   - file: /data/uploads/fantastic-for-portachiavi.stl
     name: Portachiavi

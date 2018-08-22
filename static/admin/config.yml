@@ -33,7 +33,14 @@ collections:
     create: true
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Robot", name: "robot", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
+      - label: "Componenti"
+        name: "components"
+        widget: "list"
+        allow_add: false
+        field:
+          - {label: Nome, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Files"
         name: "files"

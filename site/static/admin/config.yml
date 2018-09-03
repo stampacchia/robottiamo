@@ -8,7 +8,7 @@ public_folder: "/data/uploads" # The src attribute for uploaded media will begin
 collections:
   - name: "post"
     label: "Post"
-    folder: "content/post"
+    folder: "site/content/post"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -19,7 +19,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "main"
     label: "Main"
-    folder: "content/main"
+    folder: "site/content/main"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -29,7 +29,7 @@ collections:
       - {label: "Menu", name: "menu", widget: "hidden", default: "main"}
   - name: "teams"
     label: "Teams"
-    folder: "content/teams"
+    folder: "site/content/teams"
     create: true
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}

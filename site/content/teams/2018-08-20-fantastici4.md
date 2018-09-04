@@ -1,12 +1,13 @@
 ---
-title: Fantastic 4
+title: Fantastici 4
 robot: The Thing
-components:
-- Davide P.
-- Damiano C.
-- Christian R.
-- Antonio C.
 image: /imgs/teams/fantastic4.jpg
+components:
+  - Davide P.
+  - Damiano C.
+  - Christian R.
+  - Antonio C.
+files: []
 ---
 
 

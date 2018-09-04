@@ -7,6 +7,7 @@ components:
   - Damiano C.
   - Christian R.
   - Antonio C.
+  - Francesco C.
 files: []
 ---
 

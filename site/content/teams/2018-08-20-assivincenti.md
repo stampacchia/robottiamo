@@ -1,13 +1,14 @@
 ---
 title: Assi Vincenti
-robot: alduin
-components:
-- Michele T.
-- Celeste P.
-- Luisa V.
-- Martina D.
-- Alessio V.
+robot: Alduin
 image: /imgs/teams/assi.png
+components:
+  - Michele T.
+  - Celeste P.
+  - Luisa V.
+  - Martina D.
+  - Alessio V.
+files: []
 ---
 
 Ciao! Siamo “ASSI VINCENTI”; e con i miei compagni abbiamo creato questo robottino di nome Alduin durante il laboratorio pomeridiano per la robotica STEM.
